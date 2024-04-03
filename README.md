@@ -1,4 +1,4 @@
-# Matheus
+# Jacomini
 
 Hello! I study Computer Science at State University of Maringá.
   - Email: [jacominimatheus15@gmail.com](mailto:jacominimatheus15@gmail.com)

@@ -3,7 +3,7 @@
 
 - Contact: **jacominimatheus15@gmail.com**
 
-<h3 align="left">Social media:</h3>
+<h3 align="left">Social media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus jacomini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus jacomini" height="30" width="40" /></a>
 <a href="https://instagram.com/jacomini_mat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacomini_mat" height="30" width="40" /></a>

@@ -1,13 +1,9 @@
 <h1 align="left">Hey, I'm Matheus Jacomini</h1>
 <h3 align="left">I study Computer Science at Universidade Estadual de Maringá (UEM).</h3>
 
-- Contact: **jacominimatheus15@gmail.com**
-
-<h3 align="left">Social media</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-jacomini-07757825a/?originalSubdomain=br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus jacomini" height="30" width="40" /></a>
-<a href="https://instagram.com/jacomini_mat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacomini_mat" height="30" width="40" /></a>
-</p>
+  - Email: [jacominimatheus15@gmail.com](mailto:jacominimatheus15@gmail.com)
+  - LinkedIn: [Matheus Jacomini](https://www.linkedin.com/in/matheus-jacomini-07757825a)
+  - Instagram: [@jacomini_mat](https://www.instagram.com/jacomini_mat/)
 
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

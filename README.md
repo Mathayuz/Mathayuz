@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Matheus Jacomini</h1>
-<h3 align="center">I study Computer Science at Universidade Estadual de Maringá (UEM).</h3>
+<h3 align="left">I study Computer Science at Universidade Estadual de Maringá (UEM).</h3>
 
 - 📫 How to reach me: **jacominimatheus15@gmail.com**
 
